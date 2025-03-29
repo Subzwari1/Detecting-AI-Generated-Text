@@ -1,4 +1,4 @@
-# Detecting-AI-Generated-Text
+# Detecting-AI-Generated-Text (Deep Learning)
 
 ## Dataset
 Initially, the dataset named "train_essays" was used for data exploration. This dataset consists of 1,378 rows. To augment the dataset, synthetic data was generated using (https://console.gretel.ai/dashboard) based on the original dataset, resulting in a synthetic dataset with 50,000 rows.
